@@ -1,5 +1,12 @@
 // Write a function called RepeatN that accpets and string and a number the return that string n times
 //dsdsdsds
+//sdsdsdsd
+//sdsd
+//
+//sdsd
+//
+//sds
+//
 function RepeatN(string, n) {
 
 }
